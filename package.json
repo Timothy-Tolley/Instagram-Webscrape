@@ -1,0 +1,11 @@
+{
+  "name": "webscrape",
+  "version": "1.0.0",
+  "description": "Webscraper",
+  "main": "webscrape-IG-Videos.js",
+  "author": "Timothy Tolley",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^12.2.0"
+  }
+}
